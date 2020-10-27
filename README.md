@@ -1,10 +1,10 @@
-# Red Social tipo Facebook.
+# Simulating Facebook App.
 
-Plantilla creada con bootstrap, simulando la antigua aplicación de Facebook.
+Template created with bootstrap, simulating the old Facebook application.
 
-Un diseño amigable y responsivo, tomando ventaja del manejo del sistema de grilla brindado por bootstrap.
+A friendly and responsive design, taking advantage of the handling of the grid system provided by bootstrap.
 
-Vista Previa: https://juanlugodegouveia.github.io/Red-Social/.
+Preview: https://juanlugodegouveia.github.io/Red-Social/.
 
 ## Copyright
 
